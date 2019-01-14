@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grabadora_audio</string>
+    <string name="play">Botón de play</string>
+    <string name="stop">Botón de stop</string>
+</resources>
